@@ -34,11 +34,12 @@ I'm Natty, a Software Engineering student learning through building.
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=Natty36&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=Natty36&theme=transparent&hide_border=false" />
-
+<br/><br/>
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Natty36&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
+<br/><br/>
 </div>
 
 ---
