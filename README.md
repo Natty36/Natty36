@@ -1,4 +1,6 @@
 ## Hi There 👋
+[![wakatime](https://wakatime.com/badge/github/Natty36/Natty36.svg)](https://wakatime.com/badge/github/Natty36/Natty36)   ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Natty36)
+
 I'm Natty, a Software Engineering student learning through building.
 
 - Currently focusing on front-end development — React, Tailwind, and JavaScript
@@ -43,7 +45,7 @@ I'm Natty, a Software Engineering student learning through building.
 </div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Natty36&icon=0&color=4)](https://visitcount.itsvg.in)
+<!--[![](https://komarev.com/ghpvc/?username=Natty36&icon=0&color=4)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
